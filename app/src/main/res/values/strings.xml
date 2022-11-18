@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Practical-10</string>
+    <string name="title_activity_user_design_view">user_design_view</string>
+    <string name="title_activity_maps" />
+</resources>
